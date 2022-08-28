@@ -1,0 +1,2 @@
+BOTNAME =
+TOKEN =
