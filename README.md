@@ -1,21 +1,21 @@
-# Welcome Bot
+# Приветственный бот
 
-#### A Python Telegram Bot that greets everyone who joins a group chat
+## Бот Python Telegram, который приветствует всех, кто присоединяется к групповому чату
 
-It uses the [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) library and [pickledb](https://bitbucket.org/patx/pickledb) for basic persistence.
+Он использует библиотеку [python-telegram-bot](https://github.com/python-telegram-bot/python-telegram-bot) и [pickledb](https://bitbucket.org/patx/pickledb) для элементарная настойчивость.
 
-The file is prepared to be run by anyone by filling out the blanks in the configuration. The bot currently runs on [@jh0ker_welcomebot](https://telegram.me/jh0ker_welcomebot)
+Файл подготовлен для запуска кем угодно, заполнив пробелы в конфигурации. В настоящее время бот работает на [@SeaktaBot](https://t.me/SeaktaBot)
 
-## Requirements
+## Требования
 
-- Python 3 (tested with version 3.8)
-- Dependencies listed in `requirements.txt`
+- Python 3 (проверено с версией 3.8)
+- Зависимости, перечисленные в `requirements.txt`
 
-## How to use
+## Как использовать
 
-- Clone the repo
-- Install the requirements from `requirements.txt` (using a virtualenv is recommended)
-- Edit `TOKEN` and `BOTNAME` in `config.py`
-- Follow Bot instructions
+- Клонировать репо
+- Установите требования из `requirements.txt` (рекомендуется использование virtualenv)
+- Отредактируйте `TOKEN` и `BOTNAME` в `config.py`
+- Следуйте инструкциям бота
 # welcome-bot-seakta
 # welcome-bot-seakta
